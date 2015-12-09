@@ -1,4 +1,4 @@
-== README
+== README ==
 
 Coder Manual Project Application
 Subscription-based web application
